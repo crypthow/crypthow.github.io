@@ -2,14 +2,13 @@
 # General Site Settings
 title: CryptHow
 logo: logo.svg # You can add own logo.
-description: Everything to know about how to get into crypto
+description: Covering a wide range of topics regarding crypto and blockchain technology
 
 
 #-------------------------------
 # Author Settings
 author:
   name: CryptHow
-  image: 01.jpg
   say-hello: <strong>CryptHow</strong>
   bio: Helping people new to crypto gain more understanding about their investment and give them the ability to digest information they come across online more easily.
 
