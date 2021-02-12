@@ -20,15 +20,15 @@ You've just bought some crypto, great! You've invested into the future of financ
 
 You are scrolling through the subreddits matching your investment, and everyone is so excited and positive. The community is talking of the price of your new favourite coin: it could increase by 10%, 60%, 200%, 450%. Some people are even saying that 450% is conservative and the price could increase by as much as 1,000%, by the end of the year! Everything is possible in the world of crypto, nobody really knows, but everyone has an opinion, a bullish one when they happen to be _hodling_ that cryptocurrency.
 
-And so you naturally get excited. You take the predicted price you have read, open your calculator app, and multiply the predicted price with the number of coins you are holding. Dopamine is flowing through your veins, you are feeling good, the future is looking bright.
+And so you naturally get excited. You take the predicted price you have read, open your calculator app, and multiply it with the number of coins you are holding. Dopamine is flowing through your veins, you are feeling good, the future is looking bright.
 
-But do you understand what needs to happen for these movement in price to occur? Wouldn't it be great if you had a **minimum of knowledge** so you could make your own opinion on the topic? **This is your investment, you should make the effort to understand where your money is predicted to go**, so you can make your own decisions based on your own research, not because someone is throwing their wishful thinking out there so they can feel better about their own investment.
+But do you understand what needs to happen for these movement in price to occur? Wouldn't it be great if you had a **minimum of knowledge** so you could make your own opinion on the topic? **This is your investment, you should make the effort to understand where your money is predicted to go**, so you can make your own decisions based on your own research.
 
 Let's see what it would take for ETH to reach the famous $10k price prediction.
 
 ## It's All About The Market Cap
 
-You are reading a lot about prices, but not as much about the market capitalization of a cryptocurrency. Price is something you can easily relate to, market cap, not so much!
+You are reading a lot about prices, but not as much about the market capitalization of a cryptocurrency. Price is something you can easily relate to. Market cap, not so much!
 
 **Market cap** is the total market value of a cryptocurrency's circulating supply. If you have a crypto with only 10 coins in circulation, valued at $2 each, its market cap will be $20:
 
@@ -40,7 +40,7 @@ That would be a pretty lame cryptocurrency!
 
 Why does it matter? The market cap allows you to quantify how much value a market needs to gain in order for a coin to reach a certain price. You can then compare the predicted market cap and its expected gain with other cryptocurrencies, or even companies. Comparing the price of 1 ETH with the price of 1 BTC is meaningless, comparing their market caps is insightful. This is why cryptocurrencies are ranked by market cap, not by price.
 
-The bigger its market cap is, the more successful the crypto is.
+The bigger its market cap, the more successful the crypto is.
 
 ## ETH Predicted Market Cap
 
@@ -66,7 +66,7 @@ Predicted Price ($10,000) x Circulating Supply (114,632,202) = Predicted Market 
 
 ## Put It Into Perspective
 
-Now we can compare our dream market cap with existing ones, compare the amount of gain with well established companies. This will allow you to finally draw a picture in your mind of what it actually mean for the price of 1 ETH, to go from $1,800 to $10,000. Remember though, nothing is impossible in crypto, things are crazy and very irrational.
+Now we can compare our dream market cap with existing ones, compare the amount of gain with well established companies. This will allow us to finally draw a picture in our mind of what it actually mean for the price of 1 ETH, to go from $1,800 to $10,000. Remember though, nothing is impossible, things are crazy in the world of crypto.
 
 ### What is this gain worth?
 
@@ -113,9 +113,9 @@ That's right, in order to reach $10k, ETH's market cap needs to gain the entire 
 
 It would also be the equivalent of gaining **the entire current market cap of Bitcoin**, plus some.
 
-Now we are starting get some idea of what such speculations mean. Not impossible, but it's quite something!
+Now we are starting get some idea of what such speculations mean. Not impossible, but it's quite something nonetheless!
 
-Looking at historical data, the gains BTC and ETH had combined in market cap since March 2020, would align with what ETH needs in order to reach a price of $10k.
+Looking at historical data, the combined gains BTC and ETH had in market cap since March 2020 would align with what ETH needs in order to reach a price of $10k.
 
 <canvas id="previous.gains" width="400" height="100"></canvas>
 <script type="text/javascript">
@@ -154,6 +154,7 @@ Looking at historical data, the gains BTC and ETH had combined in market cap sin
 
 ## The Conscious Invester
 
-The goal of this post isn't to trash the prediction of ETH reaching the price of $10k or beyond, but to provide a visualisation of what such prediction looks like.
+I've simplified the supply of ETH in circulation. A lot of this supply is locked in staking and is something to be mindful of. The goal of this post isn't to trash the prediction of ETH reaching the price of $10k or beyond, but to provide a visualisation of what such prediction looks like.
 
 Next time you come across someone's comment telling you ETH will reach $_x_, hopefully you will be more aware of what their price prediction mean.
+
