@@ -21,6 +21,11 @@
   {{ include_to_scssify | scssify }}
   </style>
 
+  {% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
+
 	<script>
 		window.docReady = function (fn) {
 			if (document.readyState === "complete" || document.readyState === "interactive") {
